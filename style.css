@@ -90,12 +90,7 @@ h3{
     width: 90vw;
     align-items: stretch;
     justify-content: center;
-    background-image: url(assets/header_background.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position-y: center;
-    background-size: cover;
-    background-position: center;
+
 }
 
 .header {
@@ -106,6 +101,12 @@ h3{
     flex-wrap: nowrap;
     align-items: center;
     height: 35rem;
+    background-image: url(assets/header_background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-y: center;
+    background-size: cover;
+    background-position: center;
 }
 .header h1 {
     padding-top: 1rem;
@@ -164,5 +165,11 @@ footer {
     align-items: center;
     height: 6rem;
     text-shadow: 1px 1px #182c21;
-    
+    background-image: url(assets/header_background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-y: center;
+    background-size: cover;
+    background-position: center;
+
 }
