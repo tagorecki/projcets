@@ -92,6 +92,7 @@ h3{
     width: 90vw;
     align-items: stretch;
     justify-content: center;
+    max-width: 1024px;
 
 }
 
